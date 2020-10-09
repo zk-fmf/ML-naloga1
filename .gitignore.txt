@@ -1,2 +1,1 @@
-DATA/raw_data
 __pycache_
